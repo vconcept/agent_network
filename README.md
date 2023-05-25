@@ -1,0 +1,1 @@
+This project is aimed at selling products easily via agents. Agents have portals where can login to; and from there they can raise orders, make payments, receive commissions of products sold and make withdrawal to their local bank account
